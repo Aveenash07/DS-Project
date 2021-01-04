@@ -11,7 +11,7 @@ Certain data structures are used such as Arrays and LinkedLists to spread the wh
 
 Working:
 
-This program (software) can be used by executing the .exe file. 
+This program (software) can be used by executing the .exe file.Please run with the administrator to install the file. exe file link provide at the end. 
 
 After installing and opening the software the first page is to sign in the system. The operator is supposed to provide the Sign-In ID
 and Password provided at the bottom. 
@@ -39,6 +39,7 @@ X arrive         at, 9:02 am  | Checking/Test ||arrived (9:00) - 9:02|| = 02 ; &
 Y arrive         at, 9:23 am  | Checking/Test ||arrived (9:02) - 9:23|| = 21 ; & 21!<20|     9:23     |   arrived = (9:23)   |  future = 9:33  
 Z arrive         at, 9:24 am  | Checking/Test ||arrived (9:23) - 9:24|| = 01 ; & 01<20 | future(9:33) |   arrived = (9:24)   |  future = 9:43  
 
-
 Sign-In ID:SIBA
 Sign-In Passcode:7700
+
+https://drive.google.com/file/d/10unb8BwRHU3gO_Q6JNCnfVVV2z_z2b-7/view
